@@ -1,5 +1,5 @@
 # Vowel & Consonant Counter
-Simple Vowel & Consonant counter, this is my project number three after <strong>37 days</strong> practicing and learning programming...
+Simple Vowel & Consonant counter, this is my project number three after <strong>30 days</strong> practicing and learning programming...
 
 <b> ------- Goals ------- </b><br>
 Fix number input submit <br>
